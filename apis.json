@@ -1,0 +1,66 @@
+{
+    "name": "NY Public Library",
+    "description": "The mission of The New York Public Library is to inspire lifelong learning, advance knowledge, and strengthen our communities.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1618-ny-public-library.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "libraries",
+        "new york city"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ny-public-library\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "NY Public Library",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1618-ny-public-library.jpg",
+            "humanURL": "http:\/\/nypl.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ny-public-library-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.repo.nypl.org\/api\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/the-new-york-public-library"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/new-york-public-library"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.repo.nypl.org"
+        },
+        {
+            "type": "Email",
+            "url": "repoapi@nypl.org"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/NYPL"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/nypl"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/nypl.org"
+        }
+    ]
+}
